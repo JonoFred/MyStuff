@@ -1,0 +1,11 @@
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\bin\Debug\netcoreapp2.2\Problems.deps.json
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\bin\Debug\netcoreapp2.2\Problems.runtimeconfig.json
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\bin\Debug\netcoreapp2.2\Problems.runtimeconfig.dev.json
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\bin\Debug\netcoreapp2.2\Problems.dll
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\bin\Debug\netcoreapp2.2\Problems.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\obj\Debug\netcoreapp2.2\Problems.csprojAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\obj\Debug\netcoreapp2.2\Problems.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\obj\Debug\netcoreapp2.2\Problems.AssemblyInfoInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\obj\Debug\netcoreapp2.2\Problems.AssemblyInfo.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\obj\Debug\netcoreapp2.2\Problems.dll
+\\ict.ru.ac.za\DFS\UGHomes\g17k7372\Desktop\MyStuff\Problems\obj\Debug\netcoreapp2.2\Problems.pdb
